@@ -15,8 +15,8 @@ Coding the models?
 
 What are the two created files?
 
-` db/migrate/<TIMESTAMP>_create_songs.rb
-app/models/song.rb
+` db/migrate/<TIMESTAMP>_create_songs.rb`
+`app/models/song.rb`
 
 What is the rails command you should type then?
 > rails db:migrate
